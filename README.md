@@ -5,3 +5,5 @@ Furthemore, here is a tableau visualisation of the insight procurred with the ju
 
 
 Next will be the limitations of the insights procured.
+
+And thus.
